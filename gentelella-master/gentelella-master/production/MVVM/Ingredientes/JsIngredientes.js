@@ -1,6 +1,6 @@
 ﻿$(document).ready(function () {
     
-    alert('Hola Marco Uriel  ');
+    alert('Hola Marco Uriel esto es una segunda prueba ');
 
     var tIngredientes = $('#tIngredientes').DataTable({
         //dom: 'lrtip',

@@ -1,6 +1,6 @@
 ﻿$(document).ready(function () {
-
-    alert('Hola');
+    
+    alert('Hola Marco');
 
     var tIngredientes = $('#tIngredientes').DataTable({
         //dom: 'lrtip',

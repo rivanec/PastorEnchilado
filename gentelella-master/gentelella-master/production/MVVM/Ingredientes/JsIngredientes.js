@@ -1,6 +1,6 @@
 ﻿$(document).ready(function () {
     
-    alert('Hola Marco Uriel esto es una segunda prueba ');
+    alert('Hola Marco Uriel esto es una segunda prueba nada');
 
 
 

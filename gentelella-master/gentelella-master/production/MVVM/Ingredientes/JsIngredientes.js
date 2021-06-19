@@ -2,6 +2,8 @@
     
     alert('Hola Marco Uriel esto es una segunda prueba ');
 
+
+
     var tIngredientes = $('#tIngredientes').DataTable({
         //dom: 'lrtip',
         //searching: true,

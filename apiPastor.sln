@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPastor", "apiPastor.csproj", "{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}"
-EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "gentelella-master(1)", "gentelella-master\gentelella-master\", "{AD69A48D-D4A8-4EF1-9D4F-253267311859}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
@@ -26,20 +24,22 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "gentelella-master(1)", "gen
 		SlnRelativePath = "gentelella-master\gentelella-master\"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPastor", "apiPastor.csproj", "{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AD69A48D-D4A8-4EF1-9D4F-253267311859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AD69A48D-D4A8-4EF1-9D4F-253267311859}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD69A48D-D4A8-4EF1-9D4F-253267311859}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{AD69A48D-D4A8-4EF1-9D4F-253267311859}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DDDFE7-9F1C-44B5-BDB4-4EEA1E3CEB5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
